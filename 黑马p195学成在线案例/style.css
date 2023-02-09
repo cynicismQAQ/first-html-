@@ -179,3 +179,44 @@ a {
     font-size: 16px;
     font-weight: 700;
 }
+
+.goods {
+    height: 60px;
+    background-color: #fff;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    margin-top: 10px;
+    /* 给父亲一个垂直居中，孩子会自己继承 */
+    line-height: 60px;
+}
+
+.goods h3 {
+    float: left;
+    display: block;
+    margin-left: 30px;
+    font-size: 16px;
+    color: #00a4ff;
+}
+
+.goods ul {
+    float: left;
+    margin-left: 30px;
+}
+
+.goods ul li {
+    float: left;
+
+}
+
+.goods ul li a {
+    color: #050505;
+    padding: 0 30px;
+    font-size: 16px;
+    border-left: 1px solid #ccc;
+}
+
+.goods .mod {
+    float: right;
+    margin-right: 30px;
+    color: #00a4ff;
+    font-size: 14px;
+}
