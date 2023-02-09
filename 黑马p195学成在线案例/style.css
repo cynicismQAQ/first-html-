@@ -220,3 +220,68 @@ a {
     color: #00a4ff;
     font-size: 14px;
 }
+
+.contant {
+    height: 2280px;
+    background-color: #666;
+}
+
+.contant .recommand {
+    background-color: pink;
+    margin-top: 32px;
+}
+
+.contant .recommand .box-hd {
+    height: 42px;
+    background-color: #f3f5f7;
+}
+
+.contant .recommand .box-hd h3 {
+    float: left;
+    font-weight: 400;
+    font-size: 20px;
+    color: #494949;
+
+}
+
+.contant .recommand .box-hd a {
+    float: right;
+    margin-right: 30px;
+    line-height: 42px;
+    font-size: 12px;
+    color: #a5a5a5;
+}
+
+.contant .recommand .box-body ul {
+    width: 1225px;
+}
+
+.contant .recommand .box-body ul li {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 228px;
+    height: 271px;
+    background-color: #00a4ff;
+}
+
+.contant .recommand .box-body ul li img {
+    width: 100%;
+}
+
+.contant .recommand .box-body ul li a {
+    display: block;
+    padding-left: 23px;
+    padding-right: 20px;
+    padding-top: 25px;
+    font-size: 14px;
+    color: #050505;
+
+}
+
+.contant .recommand .box-body ul li .situation {
+    padding-top: 20px;
+    padding-left: 23px;
+}
+
+229 118
